@@ -1,38 +1,64 @@
 {
-  "usuario1": {
-    "name": "Li",
-    "password": "Bisbal0Chen",
-    "compras": [
-      {
-        "compra1": "teatro1"
-      },
-      {
-        "compra1": "teatro2"
+  "usuarios": [
+    {
+      "usuario1": {
+        "name": "Li",
+        "password": "Bisbal0Chen",
+        "compras": [
+          {
+            "compra1": "teatro1"
+          },
+          {
+            "compra1": "teatro2"
+          }
+        ]
       }
-    ]
-  },
-  "usuario2": {
-    "name": "Dani",
-    "password": "SLR@7ck5^sJih4%s",
-    "compras": [
-      {
-        "compra1": "teatro3"
-      },
-      {
-        "compra1": "teatro4"
+    },
+    {
+      "usuario2": {
+        "name": "Dani",
+        "password": "SLR@7ck5^sJih4%s",
+        "compras": [
+          {
+            "compra1": "teatro1"
+          },
+          {
+            "compra1": "teatro2"
+          }
+        ]
       }
-    ]
-  },
-  "usuario3": {
-    "name": "Pilar",
-    "password": "maltrato@Li",
-    "compras": [
-      {
-        "compra1": "teatro5"
-      },
-      {
-        "compra1": "teatro6"
+    },
+    {
+      "usuario3": {
+        "name": "Pilar",
+        "password": "maltrato@Li",
+        "compras": [
+          {
+            "compra1": "teatro1"
+          },
+          {
+            "compra1": "teatro2"
+          }
+        ]
       }
-    ]
-  }
+    }
+  ],
+  "teatros": [
+    {
+      "name": "Alcázar",
+      "address": "C. de Alcalá, 20, 28014 Madrid",
+      "obras": [
+        "obra1",
+        "obra2"
+      ]
+    },
+    {
+      "name": "Teatro Real",
+      "address": "Pl. de Isabel II, s/n, 28013 Madrid",
+      "obras": [
+        "obra1",
+        "obra2"
+      ]
+    }
+  ]
 }
