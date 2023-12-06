@@ -46,18 +46,140 @@
   "teatros": [
     {
       "name": "Alcázar",
+      "image": "https://gruposmedia.com/wp-content/uploads/2016/06/Teatro-Cofidis-Alcazar_13.jpg",
       "address": "C. de Alcalá, 20, 28014 Madrid",
       "obras": [
-        "obra1",
-        "obra2"
+        {
+          "nombre": "Aladín",
+          "image": "https://teatromadrid.com/wp-content/uploads/2022/03/TEATRO-MADRID_aladdin_el_musical_stage_TEATRO-COLISEUM_0.jpg",
+          "date": "2023/12/27",
+          "time": "20:30",
+          "duration": "120'",
+          "genre": "Romance",
+          "description": "Description",
+          "actor": "Pilar Delega y Alicia Maravillas",
+          "capacidad": 222
+        },
+        {
+          "nombre": "Ghost",
+          "image": "https://www.gruposmedia.com/descargas/ghost-el-musical-cartel.jpg",
+          "date": "2024/01/12",
+          "time": "19:45",
+          "duration": "100'",
+          "genre": "Drama y Romance",
+          "description": "Fantasmas de amor",
+          "actor": "Bustamante y una chica",
+          "capacidad": 222
+        },
+        {
+          "nombre": "Anastasia",
+          "image": "https://fs.revistagodot.com/wp-content/uploads/2018/09/Anastasia-el-musical-cartel.jpg",
+          "date": "2024/01/18",
+          "time": "19:00",
+          "duration": "95'",
+          "genre": "Romance",
+          "description": "Jajaj que nombre más raro tiene la paya",
+          "actor": "Anastasia",
+          "capacidad": 222
+        }
       ]
     },
     {
       "name": "Teatro Real",
       "address": "Pl. de Isabel II, s/n, 28013 Madrid",
+      "image": "https://www.teatroreal.es/sites/default/files/2019-02/teatro-real.jpg",
       "obras": [
-        "obra1",
-        "obra2"
+        {
+          "nombre": "We will rock you",
+          "image": "https://www.todosalteatro.com/wp-content/uploads/2020/02/obra-we-will.jpg",
+          "date": "20243/12/15",
+          "time": "15:00",
+          "duration": "80'",
+          "genre": "Musical",
+          "description": "Representación de la historia de los Queens",
+          "actor": "Freddie Mercury",
+          "capacidad": 1746
+        },
+        {
+          "nombre": "School of Rock",
+          "image": "https://teatromadrid.com/wp-content/uploads/2022/01/TEATRO_MADRID-school_of-rock-el-musical-CARTEL.jpg",
+          "date": "2023/12/24",
+          "time": "17:00",
+          "duration": "95'",
+          "genre": "Musical",
+          "description": "Precuela de We will rock you por ejemplo",
+          "actor": "Manolo Mercury",
+          "capacidad": 1746
+        },
+        {
+          "nombre": "El mago Pop",
+          "image": "https://www.elmagopop.com/img/image/fotos/5-nesi-be-poster.png?w=785&h=1051&zc=1&aoe=1&q=80&f=png",
+          "date": "2023/12/30",
+          "time": "18:00",
+          "duration": "120'",
+          "genre": "Magia",
+          "description": "Magia",
+          "actor": "Antonio Diaz",
+          "capacidad": 1746
+        }
+      ]
+    },
+    {
+      "name": "Teatro Lara",
+      "address": "Corre. Baja de San Pablo, 15, 28004 Madrid",
+      "image": "https://www.teatrolara.com/wp-content/uploads/2020/12/slid9.jpg",
+      "obras": [
+        {
+          "nombre": "La funcion que sale mal",
+          "image": "https://teatromadrid.com/wp-content/uploads/2019/02/TEATRO_MADRID-la_funcion-que-sale-mal-CARTEL-400x575.jpg",
+          "date": "2024/01/30",
+          "time": "22:00",
+          "duration": "150'",
+          "genre": "Comedia",
+          "description": "Pues que sale mal, que quieres que te diga",
+          "actor": "Manolita Pérez",
+          "capacidad": 460
+        },
+        {
+          "nombre": "La madre que me pario",
+          "image": "https://www.gruposmedia.com/descargas/la-madre-que-me-pario-cartel.jpg",
+          "date": "2024/01/18",
+          "time": "18:45",
+          "duration": "148'",
+          "genre": "Comedia",
+          "description": "Se abre el telón. aparece tu madre en el escenario. Se cierra el telón",
+          "actor": "Tu madre",
+          "capacidad": 460
+        },
+        {
+          "nombre": "El fantasma de la ópera",
+          "image": "https://m.media-amazon.com/images/I/71OImbi4-JL._AC_UF1000,1000_QL80_.jpg",
+          "date": "2024/01/08",
+          "time": "20:20",
+          "duration": "80'",
+          "genre": "Tensión",
+          "description": "Un fantasma en la ópera",
+          "actor": "Casper",
+          "capacidad": 460
+        }
+      ]
+    },
+    {
+      "name": "Teatro Lope de Vega",
+      "address": "Calle Gran Vía 57, 28013 Madrid",
+      "image": "https://d2lc9qg9dsp7xs.cloudfront.net/m/5f6206f01900792a/webimage-Lope-de-Vega-Interior-1-jpg.jpg",
+      "obras": [
+        {
+          "nombre": "El Rey Leon",
+          "image": "https://www.teatroateatro.com/wp-content/uploads/2011/10/el-rey-leon-musical-cartel-teatro-entradas.jpg",
+          "date": "2024/02",
+          "time": "18:30",
+          "duration": "170'",
+          "genre": "Infantil",
+          "description": "Un rey muere, otro leon se raya, luego se lia con una leona y al final venga a su padre.",
+          "actor": "Un leon jajaja",
+          "capacidad": 181
+        }
       ]
     }
   ]
