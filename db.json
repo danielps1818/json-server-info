@@ -1,8 +1,8 @@
 {
   "usuarios": [
     {
-      "usuario1": {
-        "name": "Li",
+      "LiJie02": {
+        "name": "Li Jie Chen",
         "password": "Bisbal0Chen",
         "compras": [
           {
@@ -15,8 +15,8 @@
       }
     },
     {
-      "usuario2": {
-        "name": "Dani",
+      "danielps1818": {
+        "name": "Dani Pérez",
         "password": "SLR@7ck5^sJih4%s",
         "compras": [
           {
@@ -29,8 +29,8 @@
       }
     },
     {
-      "usuario3": {
-        "name": "Pilar",
+      "piligut02": {
+        "name": "Pilar Gutierrez Merino",
         "password": "maltrato@Li",
         "compras": [
           {
@@ -56,8 +56,8 @@
           "time": "20:30",
           "duration": "120'",
           "genre": "Romance",
-          "description": "Description",
-          "actor": "Pilar Delega y Alicia Maravillas",
+          "description": "Un sorprendente viaje repleto de sueños, intrigas y amistad, en el que no dejarás de emocionarte con la fantástica historia de Aladdín, y disfrutarás de una de las más destacadas bandas sonoras de la historia y de una puesta en escena que es pura magia",
+          "actor": "Álvaro Puertas como Jafar, Ian Paris como Iago, Albert Muntanyola como el Sultán, Robert Matchez como Babkak, Alex Parra como Omar y Josep Gámez como Kassim",
           "capacidad": 222
         },
         {
@@ -67,8 +67,8 @@
           "time": "19:45",
           "duration": "100'",
           "genre": "Drama y Romance",
-          "description": "Fantasmas de amor",
-          "actor": "Bustamante y una chica",
+          "description": "La historia de amor que triunfó en los cines en 1990 se reestrena en la Gran Vía de Madrid con Bustamante en el personaje del inolvidable Sam",
+          "actor": "Sam con el artista Ricky Merino",
           "capacidad": 222
         },
         {
@@ -78,8 +78,8 @@
           "time": "19:00",
           "duration": "95'",
           "genre": "Romance",
-          "description": "Jajaj que nombre más raro tiene la paya",
-          "actor": "Anastasia",
+          "description": "Sentimos que no puedas seguir disfrutando de esta gran producción que triunfó durante 2 años en la Gran Vía madrileña y que, sin ninguna duda, contribuyó enormemente a consolidar el género musical en nuestro país. Gracias a la buena acogida por parte de los medios especializados y muy especialmente al apoyo de todos nuestros espectadores, el musical se convirtió en un gran éxito a lo largo de sus 2 temporadas.",
+          "actor": "Jana Gómez como Anya, Íñigo Etayo como Dimitry y Javier Navares como Vlad",
           "capacidad": 222
         }
       ]
@@ -96,8 +96,8 @@
           "time": "15:00",
           "duration": "80'",
           "genre": "Musical",
-          "description": "Representación de la historia de los Queens",
-          "actor": "Freddie Mercury",
+          "description": "La historia está ambientada en un futuro distópico en el que la individualidad es perseguida y cualquier manifestación artística es castigada.",
+          "actor": "XAVI MELERO como Galileo, FERRAN FABÁ como Galile, ANABEL GARCÍA como Scaramouche y IVAN HERZOG como Brit",
           "capacidad": 1746
         },
         {
@@ -107,8 +107,8 @@
           "time": "17:00",
           "duration": "95'",
           "genre": "Musical",
-          "description": "Precuela de We will rock you por ejemplo",
-          "actor": "Manolo Mercury",
+          "description": "Basado en la película de 2004 protagonizada por Jack Black que sacó el lado más rockero de toda una generación, este divertido musical se basa en la vida de Dewey Finn, un frustrado aspirante a estrella de rock que decide ganar un dinero extra haciéndose pasar por el profesor sustituto de una prestigiosa escuela. Allí, con su peculiar y magnética personalidad, consigue convertir a una clase de niños sobresalientes en una alucinante banda de rock que toca la guitarra y el bajo como auténticas estrellas. Mientras enseña a estos futuros prodigios el auténtico significado del rock, Dewey se enamora de la hermosa pero estricta directora de la escuela, ayudándola a redescubrir a la niña salvaje que lleva dentro.",
+          "actor": "LEO RIVERA como DEWEY FINN, ULIA MOLLER como ROSALIE MULLINS, NACHO REDONDO como NED SCHNEEBLY y TERESA FERRER como PATTI DI MARCO",
           "capacidad": 1746
         },
         {
@@ -118,7 +118,7 @@
           "time": "18:00",
           "duration": "120'",
           "genre": "Magia",
-          "description": "Magia",
+          "description": "Después de presentar su show en la capital mundial del teatro, Antonio Díaz, El Mago Pop, deslumbra el mundo a través de un montaje donde nos propone un viaje por lo extraordinario lleno de diversión, sensibilidad, sorpresa, ritmo y emoción.",
           "actor": "Antonio Diaz",
           "capacidad": 1746
         }
@@ -136,8 +136,8 @@
           "time": "22:00",
           "duration": "150'",
           "genre": "Comedia",
-          "description": "Pues que sale mal, que quieres que te diga",
-          "actor": "Manolita Pérez",
+          "description": "LA FUNCIÓN QUE SALE MAL es una comedia mezcla entre Monty Python y Sherlock Holmes. Ganador del Premio Olivier 2015 a la mejor comedia, este espectáculo nos presenta a un grupo de teatro amateur en el estreno de su obra de misterio en el que, como el mismo título hace temer, todo lo que puede salir mal,  ¡sale mal!",
+          "actor": "Adrá Olay como CHRIS, Víctor de las Heras como ROBERT, Carla Postigo como SANDRA, Rubén Casteiva como DENNIS, Aránzazu Zarete como ANNIE y Arturo Martínez Vázquez como TREVOR",
           "capacidad": 460
         },
         {
@@ -147,8 +147,8 @@
           "time": "18:45",
           "duration": "148'",
           "genre": "Comedia",
-          "description": "Se abre el telón. aparece tu madre en el escenario. Se cierra el telón",
-          "actor": "Tu madre",
+          "description": "Esta divertida comedia trata con mucho humor la relación entre las madres y las hijas. Cuando una amiga íntima se casa, tres mujeres asisten a la boda acompañadas de sus inseparables madres. Todo marcha según lo previsto hasta que la novia, tras pronunciar el \"sí, quiero\", entra en pánico y decide pedir ayuda a sus amigas. Será entonces cuando las madres decidan apuntarse a ese comité de rescate, en el que saldrán a flote todos los rifirrafes maternofiliales.",
+          "actor": "Sus protagonistas son las actrices Marisol Ayuso, Aurora Sánchez, Juana Cordero y Diego París. El resto del elenco está formado por Sara Vega, Patricia Delgado, Ana Villa y Eva Higueras.",
           "capacidad": 460
         },
         {
@@ -158,8 +158,8 @@
           "time": "20:20",
           "duration": "80'",
           "genre": "Tensión",
-          "description": "Un fantasma en la ópera",
-          "actor": "Casper",
+          "description": "Una apasionante historia de amor, muerte y desastre entre un genio de la música que vive escondiéndose del mundo en las entrañas de un teatro y Christine, una joven con una voz celestial que no tardará en descubrir el terror que esconde bajo su máscara, ¿podrá resistirse al hechizo del fantasma, o será arrastrada a su mundo de oscuridad y locura?",
+          "actor": "GERÓNIMO RAUCH como el FANTASMA y TALÍA DEL VAL como CHRISTINE DAAÉ",
           "capacidad": 460
         }
       ]
@@ -176,8 +176,8 @@
           "time": "18:30",
           "duration": "170'",
           "genre": "Infantil",
-          "description": "Un rey muere, otro leon se raya, luego se lia con una leona y al final venga a su padre.",
-          "actor": "Un leon jajaja",
+          "description": "El Rey León es la mayor producción musical jamás representada en España. Apto para toda la familia, es una experiencia única que atrapa de principio a fin y que, tal y como ya han hecho más de 110 millones de personas en todo el mundo, hay que vivir, al menos, una vez en la vida. Por su espectacularidad, por su belleza, por la emoción que es capaz de transmitir…",
+          "actor": "Pitu Manubens como SCAR, Victor Manuel Nogales como MUFASA, Agustín Argüello como SIMBA y Lindiwe Mkhize como RAFIKI",
           "capacidad": 181
         }
       ]
